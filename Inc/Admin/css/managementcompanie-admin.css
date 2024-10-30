@@ -1,0 +1,73 @@
+#page-loading.hidden {
+    display: none
+}
+
+#page-loading.visible {
+    background: rgba(255, 255, 255, .7);
+    display: table;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    z-index: 99999;
+    top: 0;
+    left: 0
+}
+
+#page-loading .c {
+    width: 30%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #eee
+}
+
+#pl-msg {
+    color: #666;
+    display: block
+}
+
+#page-loading .msg {
+    margin: 0 auto;
+    display: table-cell;
+    vertical-align: middle
+}
+
+#page-loading .icon {
+    background: url(../img/ajax-loader.gif) center center no-repeat;
+    width: 32px;
+    height: 32px;
+    margin: 0 auto 10px
+}
+
+#printSection {
+    min-height: 700px;
+}
+
+#mc-container {
+    width: 100%;
+    display: inline-block;
+}
+
+#new-invoice-details {
+    width: 80%;
+    float: left;
+}
+
+#new-invoice-button {
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 5em;
+}
+
+#invoices tr th {
+    background: #eeeeee;
+    padding: 10px;
+}
+
+#invoices tr td {
+    border-bottom: 1px dashed #cccccc;
+    padding: 10px;
+}

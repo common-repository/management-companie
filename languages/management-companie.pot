@@ -1,0 +1,393 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Facturare.Online\n"
+"POT-Creation-Date: 2022-06-06 13:38+0300\n"
+"PO-Revision-Date: 2019-05-30 11:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: managementcompanie.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Inc/Admin/Admin.php:112
+#, php-format
+msgid "Facturare.Online  - Order ID #%s"
+msgstr ""
+
+#: Inc/Admin/Admin.php:145
+#, php-format
+msgid ""
+"The invoice Series <b>%s</b>, Number <b>%s</b>, was issued for this order at "
+"<b>%s</b>"
+msgstr ""
+
+#: Inc/Admin/Admin.php:150
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:63
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:91
+msgid "Type"
+msgstr ""
+
+#: Inc/Admin/Admin.php:151
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:61
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:92
+msgid "Series"
+msgstr ""
+
+#: Inc/Admin/Admin.php:152
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:93
+msgid "Number"
+msgstr ""
+
+#: Inc/Admin/Admin.php:153
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:94
+msgid "Total"
+msgstr ""
+
+#: Inc/Admin/Admin.php:154
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:96
+msgid "Generated at"
+msgstr ""
+
+#: Inc/Admin/Admin.php:155
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:97
+msgid "Actions"
+msgstr ""
+
+#: Inc/Admin/Admin.php:169 Inc/Admin/Admin.php:187
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:138
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:221
+msgid "Download"
+msgstr ""
+
+#: Inc/Admin/Admin.php:179
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:207
+msgid "Receipt"
+msgstr ""
+
+#: Inc/Admin/Admin.php:211 Inc/Admin/Admin.php:272 Inc/Admin/Admin.php:323
+#: Inc/Admin/Admin.php:372 Inc/Admin/Admin.php:422 Inc/Admin/Admin.php:484
+#: Inc/Admin/Admin.php:542 Inc/Admin/Admin.php:586 Inc/Admin/Admin.php:611
+#: Inc/Admin/Admin.php:644
+msgid "The post is not an Woocommerce order"
+msgstr ""
+
+#: Inc/Admin/Admin.php:219 Inc/Admin/Admin.php:281
+msgid "You are not allowed to download this resource"
+msgstr ""
+
+#: Inc/Admin/Admin.php:226 Inc/Admin/Admin.php:288
+msgid "This resource is unavailable"
+msgstr ""
+
+#: Inc/Admin/Admin.php:461 Inc/Admin/Admin.php:525 Inc/Admin/Admin.php:569
+#: Inc/Admin/Admin.php:659
+msgid "The message from server response is not JSON"
+msgstr ""
+
+#: Inc/Admin/Admin.php:690 Inc/Admin/Admin.php:713 Inc/Admin/Admin.php:738
+#: Inc/Admin/Admin.php:766 Inc/Admin/Admin.php:781
+msgid "Company CUI"
+msgstr ""
+
+#: Inc/Admin/Admin.php:698 Inc/Admin/Admin.php:719 Inc/Admin/Admin.php:746
+#: Inc/Admin/Admin.php:770 Inc/Admin/Admin.php:785
+msgid "Company RegCom"
+msgstr ""
+
+#: Inc/Admin/Admin.php:762
+msgid "Company information"
+msgstr ""
+
+#: Inc/Admin/Admin.php:805
+msgid "You entered a company name, please fill in the Company CUI field"
+msgstr ""
+
+#: Inc/Admin/Admin.php:808
+msgid "You entered a company name, please fill in the Company RegCom field"
+msgstr ""
+
+#: Inc/Admin/Admin.php:817
+msgid "Facturare.Online alias name for product"
+msgstr ""
+
+#: Inc/Admin/Admin.php:820
+msgid ""
+"If set, this value will be used for invoice product name instead of "
+"Woocommerce product name"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: Inc/Admin/Settings.php:30 Inc/Admin/Settings.php:31
+msgid "Facturare.Online"
+msgstr ""
+
+#: Inc/Admin/Settings.php:42 Inc/Admin/Settings.php:253
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: Inc/Admin/Settings.php:69
+msgid "Please setup Facturare.Online account details"
+msgstr ""
+
+#: Inc/Admin/Settings.php:70
+msgid "Active"
+msgstr ""
+
+#: Inc/Admin/Settings.php:71
+msgid "Company ID"
+msgstr ""
+
+#: Inc/Admin/Settings.php:72
+msgid "Public key"
+msgstr ""
+
+#: Inc/Admin/Settings.php:73
+msgid "Private key"
+msgstr ""
+
+#: Inc/Admin/Settings.php:74
+msgid "IV"
+msgstr ""
+
+#: Inc/Admin/Settings.php:75
+msgid "Invoice type"
+msgstr ""
+
+#: Inc/Admin/Settings.php:76
+msgid "Invoice series"
+msgstr ""
+
+#: Inc/Admin/Settings.php:77
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:68
+msgid "Language"
+msgstr ""
+
+#: Inc/Admin/Settings.php:78
+msgid "Comments - will be displayed on the invoice"
+msgstr ""
+
+#: Inc/Admin/Settings.php:79
+msgid "Invoice due days"
+msgstr ""
+
+#: Inc/Admin/Settings.php:80
+msgid "Display company fields in checkout"
+msgstr ""
+
+#: Inc/Admin/Settings.php:81
+msgid "Allow the client to download the invoice"
+msgstr ""
+
+#: Inc/Admin/Settings.php:82
+msgid "Allow receipt generation based on invoice"
+msgstr ""
+
+#: Inc/Admin/Settings.php:83
+msgid "Allow invoice charge via bank"
+msgstr ""
+
+#: Inc/Admin/Settings.php:187 Inc/Libraries/FO.php:398
+msgid "Fiscal invoice"
+msgstr ""
+
+#: Inc/Admin/Settings.php:187 Inc/Libraries/FO.php:400
+msgid "Proforma invoice"
+msgstr ""
+
+#: Inc/Admin/Settings.php:198
+msgid "Romanian"
+msgstr ""
+
+#: Inc/Admin/Settings.php:198
+msgid "English"
+msgstr ""
+
+#: Inc/Admin/Settings.php:198
+msgid "German"
+msgstr ""
+
+#: Inc/Admin/Settings.php:198
+msgid "French"
+msgstr ""
+
+#: Inc/Admin/Settings.php:211
+msgid "The settings where successfully saved"
+msgstr ""
+
+#: Inc/Admin/Settings.php:224
+#, php-format
+msgid "The field %s is mandatory"
+msgstr ""
+
+#: Inc/Admin/Settings.php:243
+#, php-format
+msgid "Please obtain the settings from %s"
+msgstr ""
+
+#: Inc/Admin/Settings.php:243
+msgid "your Facturare.Online account"
+msgstr ""
+
+#: Inc/Admin/Settings.php:244
+msgid "SNIF SETTINGS"
+msgstr ""
+
+#: Inc/Admin/Settings.php:247
+msgid "Domain name"
+msgstr ""
+
+#: Inc/Admin/Settings.php:247
+msgid "SNIF URL"
+msgstr ""
+
+#: Inc/Admin/Settings.php:258
+msgid "General settings"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:59
+msgid "You will generate a new invoice using the following information"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:70
+msgid "Comments"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:73
+msgid "Due days"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:74
+msgid "days"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:80
+msgid "Generate new invoice"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:84
+#, php-format
+msgid ""
+"You already have issued invoice ID <b>%d</b>, Series <b>%s</b>, Number <b>"
+"%s</b>, on <b>%s</b> for this order"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:95
+msgid "Status"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:98
+msgid "Receipt actions"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:99
+msgid "Bank actions"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:134
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:217
+msgid "View"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:144
+msgid "Cancel"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:160
+msgid "Generate receipt"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:171
+msgid "Charge amount"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:181
+msgid "Charge date"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:194
+msgid "Charge via bank"
+msgstr ""
+
+#: Inc/Admin/views/html-managementcompanie-admin-display.php:233
+msgid "Bank charge"
+msgstr ""
+
+#: Inc/Libraries/FO.php:192
+msgid "Order no. "
+msgstr ""
+
+#: Inc/Libraries/FO.php:192
+msgid " on website "
+msgstr ""
+
+#: Inc/Libraries/FO.php:193
+msgid "Payment method: "
+msgstr ""
+
+#: Inc/Libraries/FO.php:371
+msgid "Issued"
+msgstr ""
+
+#: Inc/Libraries/FO.php:373
+msgid "Draft"
+msgstr ""
+
+#: Inc/Libraries/FO.php:375
+msgid "Canceled"
+msgstr ""
+
+#: Inc/Libraries/FO.php:377
+msgid "Fully charged"
+msgstr ""
+
+#: Inc/Libraries/FO.php:379
+msgid "Partially charged"
+msgstr ""
+
+#: Inc/Libraries/FO.php:381
+msgid "Reversed"
+msgstr ""
+
+#: Inc/Libraries/FO.php:383
+msgid "Reverses an invoice"
+msgstr ""
+
+#: Inc/Libraries/FO.php:385
+msgid "Partially reversed"
+msgstr ""
+
+#: Inc/Libraries/FO.php:387
+msgid "Partially reverses an invoice"
+msgstr ""
+
+#: Inc/Libraries/FO.php:389
+msgid "Scheduled issuance"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://facturare.online/acces-api"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Online invoicing software using https://facturare.online API"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ITCreative SRL"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://itcreative.ro"
+msgstr ""
